@@ -47,4 +47,4 @@ Relevant metrics include accuracy, precision, recall, F1-score, and a confusion 
 - Analyze classification errors.
 - Develop a simple demonstration interface.
 
-## بكتب هذا فقط ؟ تمام
+
